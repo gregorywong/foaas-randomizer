@@ -1,6 +1,8 @@
 # foaas-randomizer
 Randomize responses shown by FOAAS (http://foaas.com/).
 
+A working version can be found here: http://foaas.gregwong.me
+
 ## How to use the files?
 
 1. Clone this repo
