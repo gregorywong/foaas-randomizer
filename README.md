@@ -1,6 +1,5 @@
-# react-bootstrap-template
-A webpack project with working React and Bootstrap configurations.
-
+# foaas-randomizer
+Randomize responses shown by FOAAS (http://foaas.com/).
 
 ## How to use the files?
 
