@@ -43,10 +43,10 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       title: 'FOAAS Randomizer',
-      /*
       minify: {
           collapseWhitespace: true
       },
+      /*
       hash: true,
       */
       template: './src/index.ejs', // Load a custom template (ejs by default see the FAQ for details)
